@@ -1,0 +1,3 @@
+1  Edit the field <SSID_Name> to your SSID
+2  Edit the field <WiFi_Password> to your WiFi Password
+3  Save and Run the file, it will be automatically connected. If not, try restarting the WiFi adapter or the system itself, it should be automatically connected after restart
